@@ -30,7 +30,7 @@
     "dist": "^0.1.2",
     "express": "^4.13.3",
     "morgan": "^1.8.0",
-    "resource-router-middleware": "^0.6.0"
+    "resource-router-middleware": "^0.7.0"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
