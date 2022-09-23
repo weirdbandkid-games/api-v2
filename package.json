@@ -24,7 +24,7 @@
   "author": "Jason Miller <jason@developit.ca>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.13.3",
+    "body-parser": "^1.20.0",
     "compression": "^1.5.2",
     "cors": "^2.7.1",
     "dist": "^0.1.2",
