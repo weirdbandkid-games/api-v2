@@ -24,11 +24,11 @@
   "author": "Jason Miller <jason@developit.ca>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.13.3",
+    "body-parser": "^1.19.2",
     "compression": "^1.5.2",
     "cors": "^2.7.1",
     "dist": "^0.1.2",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "morgan": "^1.8.0",
     "resource-router-middleware": "^0.6.0"
   },
