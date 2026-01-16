@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.23.2
 
 # File Author / Maintainer
 LABEL authors="Zouhir Chahoud <zouhir@zouhir.org>"
